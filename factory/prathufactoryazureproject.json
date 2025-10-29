@@ -1,0 +1,9 @@
+{
+	"name": "prathufactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e7931ba-0bec-454e-87a0-964379135d06",
+		"tenantId": "37476b78-9f19-4776-ad5a-2e58767687a2"
+	}
+}
