@@ -294,6 +294,9 @@
 			},
 			"cdc": {
 				"type": "string"
+			},
+			"from_date": {
+				"type": "string"
 			}
 		},
 		"variables": {
